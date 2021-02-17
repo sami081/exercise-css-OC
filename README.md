@@ -6,7 +6,7 @@
 - Changer la couleur du titre et du premier paragraphe en bleu (regrouper les sélecteurs pour minimiser le code)
 - Changer la couleur des deux derniers paragraphes en rouge
 - Définir l'image `background.png` comme image de fond de la page et la répéter verticalement seulement
-- Encadrer le titre avec des points de couleur rouge et d'une taille de 4px
+- Encadrer le titre avec des points de couleur rouge et d'une taille de 4 pixels
 - Changer la police du titre en utilisant la police custom `brownies cake`
 
 ## Exercice 2
@@ -19,3 +19,9 @@
 - En utilisant la propriété `transform`, déplcer le carré de 100 pixels vers la droite et 200 pixels vers le bas
 - Faire tourner le carré de 45 degrés
 - Sans modifier les propriété `width` et `height`, changer la taille du carré à la moitié de sa largeur mais au double de sa hauteur
+
+## Exercice 4
+- Au survol du carré, agrandir sa largeur de 200 pixels
+- Au survol du carré, changer sa couleur de fond par du bleu
+- Ajouter un délai de 2 secondes au survol sur le changement de largeur
+- Ajouter un délai de 0.5 secondes au survol sur le changement de couleur
