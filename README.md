@@ -25,3 +25,11 @@
 - Au survol du carré, changer sa couleur de fond par du bleu
 - Ajouter un délai de 2 secondes au survol sur le changement de largeur
 - Ajouter un délai de 0.5 secondes au survol sur le changement de couleur
+
+## Exercice 5
+Ajouter une animation permettant, à interval régulier, de :
+- changer la couleur de fond du carré en rouge, la position gauche à 0 et la position haute à 0
+- changer la couleur de fond du carré en bleu, la position gauche à 0 et la position haute à 200
+- changer la couleur de fond du carré en vert, la position gauche à 200 et la position haute à 200
+- changer la couleur de fond du carré en jaune, la position gauche à 200 et la position haute à 0
+- changer la couleur de fond du carré en rouge, la position gauche à 0 et la position haute à 0
