@@ -14,3 +14,8 @@
 - Changer la couleur de fond du cercle par un dégradé vertical partant du bleu vers le rouge
 - Ajouter une légère ombre sur le bas et la droite du cercle de couleur gris foncé
 - Au survol du cercle, changer le fond par l'image `background.png`
+
+## Exercice 3
+- En utilisant la propriété `transform`, déplcer le carré de 100 pixels vers la droite et 200 pixels vers le bas
+- Faire tourner le carré de 45 degrés
+- Sans modifier les propriété `width` et `height`, changer la taille du carré à la moitié de sa largeur mais au double de sa hauteur
