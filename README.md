@@ -41,3 +41,11 @@ Ajouter une animation permettant, à interval régulier, de :
 ![2](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-6/casestudy_flexbox_1_2.png)
 - Appliquer des marges aux boîtes, puis centrer le contenu  
 ![3](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-6/casestudy_flexbox_1_3.png)
+
+## Exercice 7 : flexbox et responsivité
+- Modifier la composition pour étendre la boîte 5 à toute la largeur  
+![1](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-7/casestudy_flexbox_2_1.png)
+- Modifier la composition avec un breakpoint à 1024px de large  
+![2](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-7/casestudy_flexbox_2_2.png)
+- Modifier la composition avec un breakpoint à 600px de large  
+![3](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-7/casestudy_flexbox_2_3.png)
