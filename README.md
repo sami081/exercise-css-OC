@@ -7,6 +7,7 @@
 - Changer la couleur des deux derniers paragraphes en rouge
 - Définir l'image `background.png` comme image de fond de la page et la répéter verticalement seulement
 - Encadrer le titre avec des points de couleur rouge et d'une taille de 4px
+- Changer la police du titre en utilisant la police custom `brownies cake`
 
 ## Exercice 2
 - Modifier le code CSS de la class `circle` pour en faire un rond
