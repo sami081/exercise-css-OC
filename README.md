@@ -49,3 +49,7 @@ Ajouter une animation permettant, à interval régulier, de :
 ![2](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-7/casestudy_flexbox_2_2.png)
 - Modifier la composition avec un breakpoint à 600px de large  
 ![3](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-7/casestudy_flexbox_2_3.png)
+
+## Exercice 8 : centrer avec flexbox
+- Centrer horizontalement et verticalement les contenus. Ajouter de nouvelles boîtes et observer le comportement d'affichage  
+![1](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-8/casestudy_flexbox_3_1.png)
