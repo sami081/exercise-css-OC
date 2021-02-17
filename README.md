@@ -36,5 +36,8 @@ Ajouter une animation permettant, à interval régulier, de :
 
 ## Exercice 6 : les bases de flexbox
 - Occuper tout le viewport avec les boîtes basculées à la verticale (affichage en colonnes)
+![1](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-6/casestudy_flexbox_1_1.png)
 - Autoriser le retour à la ligne et placer 4 éléments par ligne en déterminant leur largeur (2 propriétés possibles)
+![2](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-6/casestudy_flexbox_1_2.png)
 - Appliquer des marges aux boîtes, puis centrer le contenu
+![3](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-6/casestudy_flexbox_1_3.png)
