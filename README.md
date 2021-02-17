@@ -1,6 +1,6 @@
 # Exercices CSS
 
-## Exercice 1
+## Exercice 1 : les bases du style
 - Bien indenter le code du fichier index.html
 - Ajouter du style à la page dans un fichier css à part
 - Changer la couleur du titre et du premier paragraphe en bleu (regrouper les sélecteurs pour minimiser le code)
@@ -9,27 +9,32 @@
 - Encadrer le titre avec des points de couleur rouge et d'une taille de 4 pixels
 - Changer la police du titre en utilisant la police custom `brownies cake`
 
-## Exercice 2
+## Exercice 2 : géométrie
 - Modifier le code CSS de la class `circle` pour en faire un rond
 - Changer la couleur de fond du cercle par un dégradé vertical partant du bleu vers le rouge
 - Ajouter une légère ombre sur le bas et la droite du cercle de couleur gris foncé
 - Au survol du cercle, changer le fond par l'image `background.png`
 
-## Exercice 3
+## Exercice 3 : tranformation
 - En utilisant la propriété `transform`, déplcer le carré de 100 pixels vers la droite et 200 pixels vers le bas
 - Faire tourner le carré de 45 degrés
 - Sans modifier les propriété `width` et `height`, changer la taille du carré à la moitié de sa largeur mais au double de sa hauteur
 
-## Exercice 4
+## Exercice 4 : transition
 - Au survol du carré, agrandir sa largeur de 200 pixels
 - Au survol du carré, changer sa couleur de fond par du bleu
 - Ajouter un délai de 2 secondes au survol sur le changement de largeur
 - Ajouter un délai de 0.5 secondes au survol sur le changement de couleur
 
-## Exercice 5
+## Exercice 5 : animation
 Ajouter une animation permettant, à interval régulier, de :
 - changer la couleur de fond du carré en rouge, la position gauche à 0 et la position haute à 0
 - changer la couleur de fond du carré en bleu, la position gauche à 0 et la position haute à 200
 - changer la couleur de fond du carré en vert, la position gauche à 200 et la position haute à 200
 - changer la couleur de fond du carré en jaune, la position gauche à 200 et la position haute à 0
 - changer la couleur de fond du carré en rouge, la position gauche à 0 et la position haute à 0
+
+## Exercice 6 : les bases de flexbox
+- Occuper tout le viewport avec les boîtes basculées à la verticale (affichage en colonnes)
+- Autoriser le retour à la ligne et placer 4 éléments par ligne en déterminant leur largeur (2 propriétés possibles)
+- Appliquer des marges aux boîtes, puis centrer le contenu
