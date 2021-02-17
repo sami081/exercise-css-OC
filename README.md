@@ -57,3 +57,11 @@ Ajouter une animation permettant, à interval régulier, de :
 ## Exercice 9 : changer l'orientation avec flexbox
 - Répartir les contenus sur 2 à 3 colonnes centrées (limiter la largeur de la <section> parente au besoin). Changer la hauteur du viewport et observer le comportement d'affichage  
 ![1](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-9/casestudy_flexbox_4_1.png)
+
+## Exercice 10 : menu responsive avec flexbox
+- Présenter le menu à l'horizontal. Etendre la surface cliquable à chaque la surface colorée  
+![1](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercice-10/casestudy_flexbox_5_1.png)
+- Présenter le menu à la verticale avec un breakpoint à 600px  
+![1](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercice-10/casestudy_flexbox_5_2.png)
+- Au survol, étirer le <li>  
+![1](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercice-10/casestudy_flexbox_5_3.png)
