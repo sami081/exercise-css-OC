@@ -53,3 +53,7 @@ Ajouter une animation permettant, à interval régulier, de :
 ## Exercice 8 : centrer avec flexbox
 - Centrer horizontalement et verticalement les contenus. Ajouter de nouvelles boîtes et observer le comportement d'affichage  
 ![1](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-8/casestudy_flexbox_3_1.png)
+
+## Exercice 9 : changer l'orientation avec flexbox
+- Répartir les contenus sur 2 à 3 colonnes centrées (limiter la largeur de la <section> parente au besoin). Changer la hauteur du viewport et observer le comportement d'affichage  
+![1](https://github.com/thomasbulle/exercise-css-OC/blob/main/exercise-9/casestudy_flexbox_4_1.png)
