@@ -1,0 +1,26 @@
+@font-face {
+  font-family: brownies cake;
+  src: url('brownies cake.ttf') format('truetype');
+}
+
+h1,#p1
+{
+  color: blue;
+  
+}
+
+p
+{
+  color: red;
+}
+
+body
+{
+  font-family: 'brownies cake', 'arial';
+  
+  background: url('background.png') repeat-y;
+}
+h1
+{
+  border: 4px red dotted ;
+}
