@@ -3,4 +3,7 @@
   height: 100px;
   background-color: lightblue;
   border: 1px solid black;
+  transform: translateX(100px) translateY(200px) rotate(0.45turn);
+  min-width: 50px;
+  min-height: 200px;
 }
