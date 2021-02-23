@@ -14,6 +14,8 @@ section {
 
 div {
   background-color: lightgrey;
+  display: flex;
+  align-items: center;
 }
 
 div:nth-of-type(5n+1) {
@@ -37,7 +39,9 @@ div:nth-of-type(5n) {
 }
 
 span {
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 3em;
   height: auto;
   background-color: rgba(255, 255, 255, .5);
@@ -45,6 +49,19 @@ span {
   font-size: 48px;
   line-height: 3em;
   text-align: center;
+  
+}
+.colors
+{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap ;
+  align-self: center;
+}
+.colors2
+{
+  display:flex;
+  justify-content: space-around;
 }
 /* ====================================
    Editer à partir d'ici
