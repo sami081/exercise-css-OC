@@ -2,20 +2,26 @@
    CSS setup ne rien modifier
    Editer plus bas
  * ==================================== */
-body { 
+
+body {
   margin: 0;
   padding: 0;
   border: 0;
 }
 
-section {
+.main-section {
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 div {
   background-color: lightgrey;
   display: flex;
   align-items: center;
+  margin: 10px;
+  flex-grow: 1;
+  justify-content: center;
 }
 
 div:nth-of-type(5n+1) {
@@ -41,29 +47,21 @@ div:nth-of-type(5n) {
 span {
   display: flex;
   justify-content: center;
-  align-items: center;
   width: 3em;
   height: auto;
   background-color: rgba(255, 255, 255, .5);
   border-radius: 50%;
   font-size: 48px;
   line-height: 3em;
-  text-align: center;
-  
 }
-.colors
-{
+
+.colors {
   display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap ;
-  align-self: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-grow: 1;
 }
-.colors2
-{
-  display:flex;
-  justify-content: space-around;
-}
+
 /* ====================================
    Editer à partir d'ici
  * ==================================== */
- 
