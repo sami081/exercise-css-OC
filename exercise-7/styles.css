@@ -9,16 +9,27 @@ body {
   border: 0;
 }
 
-section {
-  min-height: 100vh;
+.main-section {
+  min-height: 100vh
+}
+
+.colors {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-self: center;
 }
 
 div {
-  background-color: lightgrey;
+  background-color: red;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
 }
 
-div:nth-of-type(5n+1) {
-  background-color: #1abc9c;
+.colors>div:nth-of-type(5n+1) {
+  background-color: #1abc8b;
 }
 
 div:nth-of-type(5n+2) {
@@ -38,7 +49,9 @@ div:nth-of-type(5n) {
 }
 
 span {
-  display: block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 3em;
   height: auto;
   background-color: rgba(255, 255, 255, .5);
@@ -48,7 +61,18 @@ span {
   text-align: center;
 }
 
-/* ====================================
+@media screen and (max-width:1024px) {
+  .colors>div {
+    flex-basis: 45%;
+  }
+}
+
+@media screen and (max-width:600px) {
+  .colors {
+    flex-direction: column;
+  }
+}
+
+/* ==================================== 
    Editer à partir d'ici
  * ==================================== */
-
