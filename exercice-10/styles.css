@@ -1,0 +1,40 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#a1 {
+    background-color: #1abc9c;
+}
+
+#a2 {
+    background-color: #3498db;
+}
+
+#a3 {
+    background-color: #9b59b6;
+}
+
+#a4 {
+    background-color: #e67e22;
+}
+
+#a5 {
+    background-color: #e74c3c;
+}
+
+ul {
+    display: flex;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    padding: 5px;
+}
+
+body {
+    margin: 0;
+}
