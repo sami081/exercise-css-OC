@@ -38,3 +38,16 @@ li {
 body {
     margin: 0;
 }
+
+@media screen and (max-width: 600px) {
+    ul {
+        flex-direction: column;
+        flex-grow: 1;
+        margin: 0;
+    }
+    body {
+        min-height: 100vh;
+        display: flex;
+    }
+    li {
+        align-items: center;
